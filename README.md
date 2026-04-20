@@ -1,3 +1,4 @@
+<img width="1600" height="837" alt="First page" src="https://github.com/user-attachments/assets/1a91a311-a615-40b0-adee-ab4843d8520e" />
 # n8n Personal Assistant Web App
 
 A Streamlit-based personal assistant UI connected to an n8n webhook workflow.
